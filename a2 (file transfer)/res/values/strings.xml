@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, d2dcommActivity!</string>
+    <string name="app_name">d2dcomm</string>
+    <string name="last_scan">Last Scan:</string>
+    <string name="bluetooth_mac">Bluetooth MAC:</string>
+    <string name="wifi_ip">Wifi IP:</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="status">Status:</string>
+</resources>
